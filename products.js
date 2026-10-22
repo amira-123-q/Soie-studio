@@ -11,5 +11,5 @@ window.SOIE_PRODUCTS=[
  {"id":"p5","name":"Khăn polyester đơn sắc","img":"images/khan-poly-tron.jpg","price":300000,"cat":"Khăn polyester","stock":30},
  {"id":"p6","name":"Khăn polyester pha màu họa tiết","img":"images/khan-poly-hoa-tiet.jpg","price":320000,"cat":"Khăn polyester","stock":30},
  {"id":"p7","name":"Combo khăn polyester + hoa tươi","img":"images/combo-poly-hoa.jpg","price":690000,"cat":"Combo khăn + hoa","stock":15},
- {"id":"p8","name":"Combo khăn cashmere + hoa tươi","img":"images/combo-cashmere-hoa.jpg","price":1490000,"cat":"Combo khăn + hoa","stock":8}
+ {"id":"p8","name":"Combo khăn cashmere + hoa tươi","img":"images/combo-cashmere-hoa.png","price":1490000,"cat":"Combo khăn + hoa","stock":8}
 ];
